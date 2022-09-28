@@ -1,2 +1,8 @@
-# Automacao_Web_Saucedemo
- Automação web com robot framework e selenium
+# Automacao Web
+#
+ Automação web utilizando as ferramentas:
+* robot framework
+* selenium
+#
+ Utilizando metodologia de escrita de testes:
+* gherkin 
