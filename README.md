@@ -15,4 +15,4 @@ Para executar este teste na sua maquina você precisa:
 * ter o python instalado na sua maquina corretamente
 * ter o robot framework instalado na maquina
 * ter o robotframework-seleniumlibrary na maquina
-* precisa baixar drive do navegador que pretende usar para testar o site e mover para a disco C da maquina.
+* precisa baixar drive do navegador que pretende usar para testar o site e mover para o disco C da maquina.
