@@ -11,7 +11,7 @@ Site utilizado para este teste:
 * https://www.saucedemo.com
 #
 Para executar este teste na sua maquina você precisa:
-* de uma ide (eu uso VisualCode)
+* de uma ide (eu uso VisualStudioCode)
 * ter o python instalado na sua maquina corretamente
 * ter o robot framework instalado na maquina
 * ter o robotframework-seleniumlibrary na maquina
