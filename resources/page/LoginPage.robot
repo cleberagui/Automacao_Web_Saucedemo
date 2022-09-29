@@ -10,7 +10,7 @@ ${password}    secret_sauce
 ${button_login}    id:login-button
 
 *** Keywords ***
-Abrindo Browser
+Abrindo Navegador
     Open Browser    ${URL}    Chrome
 Preenchendo acesso de login
     Input Text    ${input_username}    ${username}

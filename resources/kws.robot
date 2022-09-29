@@ -3,7 +3,7 @@ Resource    base.robot
 
 *** Keywords ***
 Dado que o usuario esteja na tela de login
-    Abrindo Browser
+    Abrindo Navegador
 Quando o usuario fizer login
     Preenchendo acesso de login
     Efetuando acesso
@@ -38,4 +38,4 @@ E clicar em finalizar
     Clicando em finalizar
 Entao a compra deve ser concluida com sucesso
     Verificando se a compra foi concluida com sucesso
-    Close Browser
+    Fechando Navegador

@@ -27,5 +27,7 @@ Clicando em finalizar
     Click Element    ${button_finish}
 Verificando se a compra foi concluida com sucesso
     Wait Until Element Is Visible    ${checkout_complete}
+Fechando Navegador
+    Close Browser
 
 
